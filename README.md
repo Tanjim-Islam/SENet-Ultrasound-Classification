@@ -15,20 +15,20 @@ Ensure you have the following installed:
 
 First, clone the repository:
 
-\```
+```
 git clone https://github.com/Tanjim-Islam/SENet-Ultrasound-Classification.git
 cd SENet-Ultrasound-Classification
-\```
+```
 
 Then, install the required dependencies:
 
-\```
+```
 pip install pandas numpy matplotlib Pillow tqdm scikit-learn pretrainedmodels
-\```
+```
 
-\```
+```
 pip install torch==2.1.1 torchvision==0.16.1
-\```
+```
 
 ## Structure
 
